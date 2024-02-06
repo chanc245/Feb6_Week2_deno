@@ -59,3 +59,5 @@ Please answer in "Questoin 1 is correct" or "Question 1 is wrong".
 );
 
 console.log(`\n${result}`);
+
+// struggles I’ve been through: terminal need me to grant the access to different files —> solve by chatGPT

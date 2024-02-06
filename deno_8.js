@@ -5,6 +5,7 @@ function determinWeather(){
   // cold: >32 
   // warm: anything in between
   // hot: <77
+  // this is completely my personal option!
   const tempFah = prompt("Enter temperature in Fahrenheit: ");
 
   if (tempFah <= 32){
